@@ -25,7 +25,6 @@ if (a == b) {
 }
 
 
-
 const akys = 'melynos';
 
 if (akys === 'melynos') {
@@ -85,3 +84,14 @@ if (parosMetas === 'rytas') {
         }
     }
 }
+
+const c = ['as', 'nesuprantu', 'kuo', 'cia', 'baigsis'];
+const paskutinisZodis = c[c.length-1];
+
+console.log('kada', paskutinisZodis);
+
+const z = ['a', 'b', 'c'];
+const h = ['xyz'];
+const v = [...z, ...h];
+const e = v.join(' ');
+console.log(e);
