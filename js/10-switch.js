@@ -111,7 +111,7 @@ console.log('------------------');
 const stotele = 'Rudens2';
 
 switch (stotele) {
-    case 'Geniu':
+    case 'Geniu': 
         console.log('Geniu');
     case 'Tremtiniu':
         console.log('Tremtiniu');
