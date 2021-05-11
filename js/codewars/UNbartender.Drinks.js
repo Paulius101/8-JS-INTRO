@@ -20,3 +20,5 @@ console.log(getDrinkByProfession("poLiTiCian"), "Your tax dollars", "'Politician
 console.log(getDrinkByProfession("rapper"), "Cristal", "'Rapper' should map to 'Cristal'");
 console.log(getDrinkByProfession("pundit"), "Beer", "'Pundit' should map to 'Beer'");
 console.log(getDrinkByProfession("Pug"), "Beer", "'Pug' should map to 'Beer'");
+
+var paramText = param.toLowerCase();
