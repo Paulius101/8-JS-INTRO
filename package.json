@@ -1,0 +1,23 @@
+{
+  "name": "8-JS-INTRO",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "dev": "nodemon ."
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Paulius101/8-JS-INTRO.git"
+  },
+  "keywords": [],
+  "author": "Paulius Dambrauskas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Paulius101/8-JS-INTRO/issues"
+  },
+  "homepage": "https://github.com/Paulius101/8-JS-INTRO#readme"
+}
